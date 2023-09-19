@@ -60,7 +60,7 @@ welcome = """
     </style>
 </head>
 <body>
-    <h1>Jenish Revaldo C   -  Data Scientist</h1>
+    <h1>Jenish Revaldo C   -  Data Analyst</h1>
   
     <p>Driven and adaptable Data Analyst with a passion for continuous learning and leadership. Skilled in mathematics, statistics, and programming, I excel at solving complex problems and extracting valuable insights from data. Committed to staying updated on industry trends to deliver impactful data-driven solutions.</p>
     
